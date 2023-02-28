@@ -1,0 +1,10 @@
+body {
+    background-image: url(pink-heart-Background-387x258-removebg-preview.png);
+    background-repeat: cover;
+    height: 99px;
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-shadow: 3px 1px 10px #000000;
+}

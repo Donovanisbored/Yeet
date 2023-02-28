@@ -1,0 +1,28 @@
+h1{
+  height: 55px;
+  background-image: linear-gradient(violet, indigo, blue, green, yellow, orange, red);
+  background-repeat: no-repeat;
+  background-size: 1400px, 100px;
+  text-shadow: 3px 1px 6px #000000;
+}
+body {
+  background: linear-gradient(Red, orange, yellow, green, blue, indigo, violet);
+height: 1000px;
+color: white;
+}
+/* Solid Green Rounded */
+hr {
+  border: 2px thin rgb(255, 230, 6);
+  border-radius: 2px;
+}
+li.a{
+  color: #000099;
+  list-style-type: circle ;
+  list-style: color yellow;
+}
+h1.b{
+  background-image: linear-gradient(blue, #7cfc00, yellow, orange);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-shadow: 3px, 1px, 6px, black
+}

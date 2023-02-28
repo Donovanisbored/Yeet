@@ -1,0 +1,23 @@
+body {
+    background-color: #FFCCFF ;
+    color: #000099;
+    font-family: Verdana, Helvetica, sans-serif;
+}
+/* Solid Green Rounded */
+hr {
+    border: 2px thin rgb(255, 230, 6);
+    border-radius: 2px;
+}
+p.b {
+    text-align: right;
+}
+h3.b{
+    text-align: right;
+}
+li.a{
+    list-style-type: circle ;
+    list-style: color #FFCCFF;
+}
+li.b{
+    list-style-type: square;
+}
